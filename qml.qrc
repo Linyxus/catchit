@@ -1,5 +1,8 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>StartButton.qml</file>
+        <file>Circle.qml</file>
+        <file>RestartButton.qml</file>
     </qresource>
 </RCC>
